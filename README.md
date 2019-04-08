@@ -5,4 +5,5 @@ At first I went about this by manually locating the sites from a sketch of their
 After additional research I found a webpage that had the locations of these sites documented and decided to use this as a way to practice my web-scraping skills.
 
 This notebook (click below) scrapes the locations of declassified, decomissioned missile sites thoughout the U.S. and plots thier locations using the Geoviews python library. 
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tjslezak/titan-missile-sites/master)

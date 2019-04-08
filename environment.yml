@@ -1,8 +1,23 @@
 name: scrape
+channels:
+  - pyviz
+  - defaults
 dependencies:
+  - _ipyw_jlab_nb_ext_conf
   - beautifulsoup4
   - bokeh
+  - holoviews
+  - hvplot
+  - ipython
   - geoviews
+  - geoviews-core
+  - jupyter
+  - jupyter_client
+  - jupyter_console
+  - jupyter_core
+  - jupyterlab
+  - jupyterlab_server
+  - nodejs
   - requests
   - pandas
 prefix: /Users/tjs/anaconda3/envs/scrape
